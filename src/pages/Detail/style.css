@@ -1,0 +1,19 @@
+.detail .ant-layout-sider-children{
+  background: blue
+}
+.detail p {text-indent:30px}
+.detail h1{
+  text-align: center;
+  color: blue;
+  font-size: 20px
+}
+.detail .content{
+  text-indent: 130px
+}
+.detail .content em{
+  display: inline-block;
+  margin-left: 30px
+}
+.detail .audio{
+  margin-left: 500px
+}
